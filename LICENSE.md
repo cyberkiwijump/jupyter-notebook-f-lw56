@@ -1,4 +1,4 @@
-# 
+# Enhance Jupyter Notebook for macOS (через Anaconda) with advanced Plugin for Jupyter Notebook for macOS (через Anaconda) - code-autocompletion and custom-functions, the #1 plugin.
 
 
 
